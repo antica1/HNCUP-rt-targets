@@ -1,6 +1,6 @@
-# Cervical CUP — RT Target Delineation Skill
+# HNCUP — RT Target Delineation Skill
 
-Postoperative & definitive radiotherapy target volume delineation for **cervical carcinoma of unknown primary** (CUP) in the head and neck.
+Postoperative & definitive radiotherapy target volume delineation for **head and neck cancer of unknown primary** (HNCUP).
 
 ## What This Skill Does
 
@@ -25,7 +25,7 @@ Copy `SKILL.md` into your Claude skills directory.
 
 ## Trigger Keywords
 
-`unknown primary` `occult primary` `CUP` `cervical CUP` `HNCUP` `HNSCCUP`
+`unknown primary` `HNCUP` `occult primary` `neck node SCC no primary`
 
 ## Key References
 
