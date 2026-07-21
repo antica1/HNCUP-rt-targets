@@ -478,3 +478,30 @@ The past five years have seen a decisive global shift toward the selective, indi
 ---
 
 *This clinical framework was developed through the clinical experience and published research of the Department of Radiation Oncology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine. It is intended for educational and clinical reference purposes.*
+
+
+---
+
+## 附：靶区规划摘要（可复制粘贴入首次病程录）
+
+> 治疗前写入住院病史"诊疗计划"。HNCUP 特有：选择性黏膜、EBV 状态。
+
+```
+═══════════════════════════════
+  放疗靶区规划
+═══════════════════════════════
+诊断：______  pN__（原发不明）
+EBV：□ 阳性  □ 阴性
+手术：______
+PORT 指征：______（ENE+ / 多站 LN / N2b+）
+
+方案：□ 术后 PORT  □ 根治性 RT   ___ Gy / ___ fx
+
+CTV60：______（原阳性 LN 站 + 直接下游一站）
+CTV54：______（选择性黏膜：鼻咽/口咽/下咽 — 按 EBV+LN 位置）
+豁免：______（对侧颈 / 全咽腔 / 声门 / 口腔）
+RP：□ 同侧  □ 双侧  □ 不照
+
+主治：______  日期：______
+═══════════════════════════════
+```
