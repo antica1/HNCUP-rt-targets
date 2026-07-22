@@ -1,6 +1,6 @@
 ---
 name: cervical-cup-rt-targets
-description: "Radiotherapy target volume delineation for cervical carcinoma of unknown primary (CUP) in head and neck, emphasizing NPC screening, nodal location-based origin inference, and selective mucosal irradiation."
+description: "原发不明颈部转移癌HNCUP靶区勾画——选择性黏膜、EBV/HPV分层、颈清后逆流规则。True CUP RT target delineation — selective mucosal irradiation."
 version: 1.0.0
 author: Dou Shengjin, Zhu Guopei / Shanghai Ninth People's Hospital
 license: MIT
