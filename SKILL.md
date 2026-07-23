@@ -7,6 +7,7 @@ license: MIT
 metadata:
   hermes:
     triggers_on: [原发不明, 原发灶不明, HNCUP, CUP, 颈部转移癌, 原发不明颈部, 未知原发, 颈部淋巴结转移, 转移性颈部, unknown primary, cervical CUP, 颈清后, 逆流, 选择性黏膜]
+    related_skills: [npc-rt-target-delineation, head-neck-target-delineation, port-oral-postop, adenoid-cystic-carcinoma-rt-targets]
 ---
 
 # 颈部原发不明转移性癌 — 放疗靶区勾画指南
