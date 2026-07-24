@@ -3,28 +3,13 @@ name: cervical-cup-rt-targets
 description: "原发不明颈部转移癌HNCUP靶区勾画——选择性黏膜、EBV/HPV分层、颈清后逆流规则。True CUP RT target delineation — selective mucosal irradiation."
 version: 1.0.0
 author: Dou Shengjin, Zhu Guopei / Shanghai Ninth People's Hospital
-license: MIT
-metadata:
-  hermes:
-    triggers_on: [原发不明, 原发灶不明, HNCUP, CUP, 颈部转移癌, 原发不明颈部, 未知原发, 颈部淋巴结转移, 转移性颈部, unknown primary, cervical CUP, 颈清后, 逆流, 选择性黏膜]
-    related_skills: [npc-rt-target-delineation, head-neck-target-delineation, port-oral-postop, adenoid-cystic-carcinoma-rt-targets]
+license: CC BY-NC-SA 4.0
 ---
+> **原创声明**：本 Skill 所含临床框架为上海交通大学医学院附属第九人民医院口腔颌面头颈肿瘤科放疗组原创知识产权。五大原创框架——间室放疗（门+隔壁）、淋巴逆流规则、QUANTEC 四维批判、口底铁律、化免新辅助后 PORT 降级三梯度——均为九院体系的组成部分。授权采用 CC BY-NC-SA 4.0（署名-非商业-相同方式共享）。引用：朱国培, 九院放疗组. 头颈肿瘤放疗靶区勾画 Skill 系列 [OL]. GitHub: antica1, 2026.
+
+
 
 # 颈部原发不明转移性癌 — 放疗靶区勾画指南
-
-## 铁律清单
-
-| # | 铁律 | 触发条件 |
-|---|------|---------|
-| 1 | True CUP严格定义（排除NPC+p16+口咽） | 诊断阶段——未穷尽所有检查前不可诊断为CUP |
-| 2 | 国人NPC高发 → 首排EBV+淋巴结位置 | 中国人群任何颈部转移癌 |
-| 3 | 选择性黏膜（4跨中线结构）非全咽腔 | 非NPC路径的黏膜照射 |
-| 4 | 同侧颈单照 | 非NPC路径+对侧cN0 |
-| 5 | 颈清后逆流规则（ECE/+3LN/≥3cm → +RP+上颈鞘） | 颈清扫术后 |
-| 6 | 声门无淋巴排除 | CUP黏膜CTV规划——声门不照 |
-| 7 | VIII/IX/X浅表过站仅术后照 | 仅颈清后且高危（ECE/多LN/大LN） |
-| 8 | VI区 = 口腔前哨 | 孤立Level VI→前口底为重点 |
-| 9 | 4跨中线结构 = 鼻咽+软腭+舌根+喉 | 黏膜CTV跨中线规划 |
 
 ## Overview
 
